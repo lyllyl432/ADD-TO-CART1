@@ -1,0 +1,44 @@
+{
+    "items":[
+        {
+            "sys":{"id": "1"},
+            "fields":{
+                "title": "safeguard",
+                "price": 20,
+                "button": "soap"
+            }
+        },
+        {
+            "sys":{"id": "2"},
+            "fields":{
+                "title": "bioderm",
+                "price": 25,
+                "button": "soap"
+            }
+        },
+        {
+            "sys":{"id": "3"},
+            "fields":{
+                "title": "colgate",
+                "price": 10,
+                "button": "teeth care"
+            }
+        },
+        {
+            "sys":{"id": "4"},
+            "fields":{
+                "title": "heimish",
+                "price": 30,
+                "button": "skin care"
+            }
+        },
+        {
+            "sys":{"id": "5"},
+            "fields":{
+                "title": "mouthwash",
+                "price": 50,
+                "button": "teeth care"
+            }
+        }
+    ]
+}

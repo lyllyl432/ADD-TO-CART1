@@ -18,3 +18,17 @@
     margin-top: 10rem;
     background: red;
 }
+.cartRow{
+    background: red;
+}
+
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+.totalPrice{
+    position: absolute;
+    top: 50%;
+}
